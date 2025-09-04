@@ -10,19 +10,12 @@
   </a>
 </p>
 
+
 <p align="center">
-  <a href="https://linkedin.com/in/hernan-zuluaga" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hernan-zuluaga"/>
-  </a>
-  <a href="mailto:hernandavid4224@outlook.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hernandavid4224@outlook.com"/>
-  </a>
-  <a href="https://github.com/hernanzuluaga" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="hernanzuluaga"/>
-  </a>
+  <a href="https://linkedin.com/in/hernan-zuluaga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hernandavid4224@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="[https://github.com/DeibyArizac](https://github.com/hernanzuluaga)" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
-
-
 
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí  
