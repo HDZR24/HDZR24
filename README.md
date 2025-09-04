@@ -1,8 +1,7 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=header&text=Hernan%20Zuluaga&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Hernan%20Zuluaga&fontSize=32&fontColor=4DB8FF&animation=fadeIn" />
 </p>
-
 
 
 <p align="center">
@@ -37,44 +36,84 @@
 - 🚀 Apasionado por la **Inteligencia Artificial, el desarrollo de software y la innovación tecnológica**  
 - 🌱 En constante aprendizaje y exploración de **nuevas tecnologías para crear soluciones inteligentes y escalables**  
 
-
-## 🛠️ Tecnologías conocidas  
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,fastapi,nextjs,react,nodejs,postgresql,mongodb,mysql,docker,azure,git,github,linux,vscode,postman,powershell,bash&perline=10" />
+  <!-- Backend -->
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" alt="FastAPI"></code>
+  <br>
+  <!-- Frontend -->
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="TypeScript"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js"></code>
+  <br>
+  <!-- Databases -->
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"></code>
+  <br>
+  <!-- DevOps / Tools -->
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"></code>
+</p>
+
+## 🚀 Proyectos Destacados  
+
+### 🧠 JobMatch-AI  
+🔹 Sistema basado en IA que evalúa afinidad entre vacantes y aspirantes mediante video-presentaciones.  
+🔹 Usa **Whisper X + NLP + ML** para transcribir, extraer palabras clave y medir similitudes.  
+🔹 Optimiza la selección de personal con **transparencia y sin sesgos**.  
+<p align="left">
+  <a href="https://github.com/hernanzuluaga/TU_REPO_JOBMATCH" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados  
-
-### 🧠 **JobMatch-AI**  
-🔹 Sistema basado en IA que evalúa afinidad entre vacantes y aspirantes mediante video-presentaciones.  
-🔹 Usa **Whisper X + NLP + ML** para transcribir, extraer palabras clave y medir similitudes.  
-🔹 Optimiza la selección de personal con **transparencia y sin sesgos**.  
-
----
-
-### 🏥 **Medical Transcription Tool**  
+### 🏥 Medical Transcription Tool  
 🔹 API en **FastAPI** que recibe audios y extrae información médica con IA (Whisper + Firefunction).  
 🔹 Automatiza historias clínicas electrónicas reduciendo carga manual.  
 🔹 Seguridad con **JWT** para proteger datos sensibles de pacientes.  
+<p align="left">
+  <a href="https://github.com/hernanzuluaga/TU_REPO_MEDICAL" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛡 **CybAssist**  
+### 🛡 CybAssist  
 🔹 Asistente modular de **ciberseguridad en Python**.  
 🔹 Automatiza procesos de pentesting con **Nmap y Nikto**.  
 🔹 Integra **LLMs locales y cloud** para interpretar solicitudes y mantener coherencia del contexto.  
+<p align="left">
+  <a href="https://github.com/hernanzuluaga/TU_REPO_CYBASSIST" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🍽 **Mana2 – Plataforma de Salud Personalizada**  
+### 🍽 Mana2 – Plataforma de Salud Personalizada  
 🔹 Plataforma web para recomendar platos saludables según **condiciones médicas, alergias y perfil del usuario**.  
 🔹 Backend en **FastAPI**, frontend en **Next.js**, BD en **PostgreSQL**.  
 🔹 Despliegue en **Railway + Azure**, orquestación con **Docker Compose**.  
+<p align="left">
+  <a href="https://github.com/hernanzuluaga/TU_REPO_MANA2" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
