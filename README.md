@@ -1,11 +1,12 @@
-<!-- Top Banner -->
+<!-- Banner superior -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Hernan%20Zuluaga&fontSize=32&fontColor=4DB8FF&animation=fadeIn" />
 </p>
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0077FF&size=24&center=true&vCenter=true&width=800&lines=Systems+and+Computer+Engineer;Fullstack+Developer+%7C+Backend+%26+AI+Engineer;Passionate+about+AI+and+Process+Automation;Always+learning+new+technologies">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0077FF&size=24&center=true&vCenter=true&width=800&lines=Ingeniero+de+Sistemas+y+Computación;Fullstack+Developer+%7C+Backend+%26+AI+Engineer;Apasionado+por+la+IA+y+la+Automatización+de+Procesos;Siempre+aprendiendo+nuevas+tecnologías">
   </a>
 </p>
 
@@ -21,18 +22,21 @@
   </a>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me  
+
+
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí  
 
 <picture>
  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="200px">
 </picture>
 
-- 👨🏻‍🎓 **Systems and Computer Engineer** (UTB, Cartagena – 2025)  
-- 💡 **Fullstack Developer | Backend & AI Engineer | Process Automation**  
-- 🚀 Passionate about **Artificial Intelligence, software development, and technological innovation**  
-- 🌱 Continuously learning and exploring **new technologies to build intelligent and scalable solutions**  
+- 👨🏻‍🎓 **Ingeniero de Sistemas y Computación** (UTB, Cartagena – 2025)  
+- 💡 **Fullstack Developer | Backend & AI Engineer | Automatización de Procesos**  
+- 🚀 Apasionado por la **Inteligencia Artificial, el desarrollo de software y la innovación tecnológica**  
+- 🌱 En constante aprendizaje y exploración de **nuevas tecnologías para crear soluciones inteligentes y escalables**  
 
-## 🛠️ Technologies and Tools
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
   <!-- Backend -->
@@ -62,53 +66,54 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"></code>
 </p>
 
-## 🚀 Featured Projects  
+## 🚀 Proyectos Destacados  
 
 ### 🧠 JobMatch-AI  
-🔹 AI-based system that evaluates match between job positions and candidates through video presentations.  
-🔹 Uses **Whisper X + NLP + ML** to transcribe, extract keywords, and measure similarity.  
-🔹 Optimizes hiring with **transparency and bias-free assessment**.  
+🔹 Sistema basado en IA que evalúa afinidad entre vacantes y aspirantes mediante video-presentaciones.  
+🔹 Usa **Whisper X + NLP + ML** para transcribir, extraer palabras clave y medir similitudes.  
+🔹 Optimiza la selección de personal con **transparencia y sin sesgos**.  
 <p align="left">
   <a href="https://github.com/hernanzuluaga/TU_REPO_JOBMATCH" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20View%20Repository-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### 🏥 Medical Transcription Tool  
-🔹 **FastAPI** API that receives audio and extracts medical information using AI (Whisper + Firefunction).  
-🔹 Automates electronic health records, reducing manual workload.  
-🔹 Security with **JWT** to protect sensitive patient data.  
+🔹 API en **FastAPI** que recibe audios y extrae información médica con IA (Whisper + Firefunction).  
+🔹 Automatiza historias clínicas electrónicas reduciendo carga manual.  
+🔹 Seguridad con **JWT** para proteger datos sensibles de pacientes.  
 <p align="left">
   <a href="https://github.com/hernanzuluaga/TU_REPO_MEDICAL" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20View%20Repository-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### 🛡 CybAssist  
-🔹 Modular **Python cybersecurity assistant**.  
-🔹 Automates pentesting processes using **Nmap and Nikto**.  
-🔹 Integrates **local and cloud LLMs** to interpret requests and maintain context coherence.  
+🔹 Asistente modular de **ciberseguridad en Python**.  
+🔹 Automatiza procesos de pentesting con **Nmap y Nikto**.  
+🔹 Integra **LLMs locales y cloud** para interpretar solicitudes y mantener coherencia del contexto.  
 <p align="left">
   <a href="https://github.com/hernanzuluaga/TU_REPO_CYBASSIST" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20View%20Repository-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🍽 Mana2 – Personalized Health Platform  
-🔹 Web platform recommending healthy dishes based on **medical conditions, allergies, and user profile**.  
-🔹 Backend in **FastAPI**, frontend in **Next.js**, DB in **PostgreSQL**.  
-🔹 Deployment on **Railway + Azure**, orchestration with **Docker Compose**.  
+### 🍽 Mana2 – Plataforma de Salud Personalizada  
+🔹 Plataforma web para recomendar platos saludables según **condiciones médicas, alergias y perfil del usuario**.  
+🔹 Backend en **FastAPI**, frontend en **Next.js**, BD en **PostgreSQL**.  
+🔹 Despliegue en **Railway + Azure**, orquestación con **Docker Compose**.  
 <p align="left">
   <a href="https://github.com/hernanzuluaga/TU_REPO_MANA2" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20View%20Repository-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
@@ -118,3 +123,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hernanzuluaga&show_icons=true&theme=radical" alt="Hernan's GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanzuluaga&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
+
+
