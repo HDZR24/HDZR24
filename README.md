@@ -1,7 +1,9 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=200&section=header&text=Hernan%20Zuluaga&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=120&section=header&text=Hernan%20Zuluaga&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
