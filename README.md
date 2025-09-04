@@ -84,11 +84,6 @@
 🔹 API en **FastAPI** que recibe audios y extrae información médica con IA (Whisper + Firefunction).  
 🔹 Automatiza historias clínicas electrónicas reduciendo carga manual.  
 🔹 Seguridad con **JWT** para proteger datos sensibles de pacientes.  
-<p align="left">
-  <a href="https://github.com/hernanzuluaga/TU_REPO_MEDICAL" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
