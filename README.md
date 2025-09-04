@@ -28,7 +28,7 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí  
 
 <picture>
- <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="200px">
+ <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130px">
 </picture>
 
 - 👨🏻‍🎓 **Ingeniero de Sistemas y Computación** (UTB, Cartagena – 2025)  
@@ -99,7 +99,7 @@
 
 ---
 
-### 🍽 Mana2 – Plataforma de Salud Personalizada  
+### 🍽 M2 – Plataforma de Salud Personalizada  
 🔹 Plataforma web para recomendar platos saludables según **condiciones médicas, alergias y perfil del usuario**.  
 🔹 Backend en **FastAPI**, frontend en **Next.js**, BD en **PostgreSQL**.  
 🔹 Despliegue en **Railway + Azure**, orquestación con **Docker Compose**.  
@@ -111,12 +111,4 @@
 
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hernanzuluaga&show_icons=true&theme=radical" alt="Hernan's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernanzuluaga&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
 
