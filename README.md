@@ -25,7 +25,7 @@
 </picture>
 
 - 👨🏻‍🎓 **Ingeniero de Sistemas y Computación** (UTB, Cartagena – 2025)  
-- 💡 **Fullstack Developer | Backend & AI Engineer | Automatización de Procesos**  
+- 💡 **Fullstack Developer | Machine learning | Azure Cloud & API Development**  
 - 🚀 Apasionado por la **Inteligencia Artificial, el desarrollo de software y la innovación tecnológica**  
 - 🌱 En constante aprendizaje y exploración de **nuevas tecnologías para crear soluciones inteligentes y escalables**  
 
