@@ -59,49 +59,47 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"></code>
 </p>
 
-## 🚀 Proyectos Destacados  
+## 🚀 Proyectos Destacados
 
-### 🧠 JobMatch-AI  
-🔹 Sistema basado en IA que evalúa afinidad entre vacantes y aspirantes mediante video-presentaciones.  
-🔹 Usa **Whisper X + NLP + ML** para transcribir, extraer palabras clave y medir similitudes.  
-🔹 Optimiza la selección de personal con **transparencia y sin sesgos**.  
-<p align="left">
-  <a href="https://github.com/hernanzuluaga/TU_REPO_JOBMATCH" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+### <img src="https://api.iconify.design/mdi:brain.svg" width="20" height="20"> AI-JobMatch
+> Sistema de IA para evaluación de candidatos mediante video-presentaciones
 
-### 🏥 Medical Transcription Tool  
-🔹 API en **FastAPI** que recibe audios y extrae información médica con IA (Whisper + Firefunction).  
-🔹 Automatiza historias clínicas electrónicas reduciendo carga manual.  
-🔹 Seguridad con **JWT** para proteger datos sensibles de pacientes.  
+[![View Code](https://img.shields.io/badge/View_Repository-0077FF?style=flat-square&logo=github&logoColor=white)](https://github.com/ElOwen7/AI-JobMatch)
+
+**Tecnologías:** `Whisper X` `NLP` `ML`  
+**Propósito:** Optimizar selección de personal con transparencia
 
 ---
 
-### 🛡 CybAssist  
-🔹 Asistente modular de **ciberseguridad en Python**.  
-🔹 Automatiza procesos de pentesting con **Nmap y Nikto**.  
-🔹 Integra **LLMs locales y cloud** para interpretar solicitudes y mantener coherencia del contexto.  
-<p align="left">
-  <a href="https://github.com/hernanzuluaga/TU_REPO_CYBASSIST" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### <img src="https://api.iconify.design/mdi:food.svg" width="20" height="20"> NutriAI
+> Plataforma de recomendación de platos saludables personalizados
+
+[![View Code](https://img.shields.io/badge/View_Repository-0077FF?style=flat-square&logo=github&logoColor=white)](https://github.com/HDZR24/NutriAI)
+
+**Tecnologías:** `FastAPI` `Next.js` `PostgreSQL` `Docker`  
+**Despliegue:** `Railway` `Azure`
 
 ---
 
-### 🍽 M2 – Plataforma de Salud Personalizada  
-🔹 Plataforma web para recomendar platos saludables según **condiciones médicas, alergias y perfil del usuario**.  
-🔹 Backend en **FastAPI**, frontend en **Next.js**, BD en **PostgreSQL**.  
-🔹 Despliegue en **Railway + Azure**, orquestación con **Docker Compose**.  
-<p align="left">
-  <a href="https://github.com/hernanzuluaga/TU_REPO_MANA2" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio-0077FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### <img src="https://api.iconify.design/mdi:shield-account.svg" width="20" height="20"> CyberAgent
+> Asistente de ciberseguridad para automatización de pentesting
 
+[![View Code](https://img.shields.io/badge/View_Repository-0077FF?style=flat-square&logo=github&logoColor=white)](https://github.com/HDZR24/Cyber-agent)
+
+**Tecnologías:** `Python` `Nmap` `Nikto` `LLMs`  
+**Característica:** Integración con modelos de lenguaje
+
+---
+
+### <img src="https://api.iconify.design/mdi:medical-bag.svg" width="20" height="20"> Medical Transcription Tool
+> *Repositorio privado* - API para transcripción y extracción de información médica
+
+**Tecnologías:** `FastAPI` `Whisper` `JWT`  
+**Propósito:** Automatización de historias clínicas electrónicas
+
+</div>
 
 ---
 
