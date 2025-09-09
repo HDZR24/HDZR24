@@ -63,41 +63,74 @@
 
 <div align="center">
 
-### <img src="https://api.iconify.design/mdi:brain.svg" width="20" height="20"> AI-JobMatch
-> Sistema de IA para evaluación de candidatos mediante video-presentaciones
-
-[![View Code](https://img.shields.io/badge/View_Repository-0077FF?style=flat-square&logo=github&logoColor=white)](https://github.com/ElOwen7/AI-JobMatch)
-
-**Tecnologías:** `Whisper X` `NLP` `ML`  
-**Propósito:** Optimizar selección de personal con transparencia
-
----
-
-### <img src="https://api.iconify.design/mdi:food.svg" width="20" height="20"> NutriAI
-> Plataforma de recomendación de platos saludables personalizados
-
-[![View Code](https://img.shields.io/badge/View_Repository-0077FF?style=flat-square&logo=github&logoColor=white)](https://github.com/HDZR24/NutriAI)
-
-**Tecnologías:** `FastAPI` `Next.js` `PostgreSQL` `Docker`  
-**Despliegue:** `Railway` `Azure`
-
----
-
-### <img src="https://api.iconify.design/mdi:shield-account.svg" width="20" height="20"> CyberAgent
-> Asistente de ciberseguridad para automatización de pentesting
-
-[![View Code](https://img.shields.io/badge/View_Repository-0077FF?style=flat-square&logo=github&logoColor=white)](https://github.com/HDZR24/Cyber-agent)
-
-**Tecnologías:** `Python` `Nmap` `Nikto` `LLMs`  
-**Característica:** Integración con modelos de lenguaje
-
----
-
-### <img src="https://api.iconify.design/mdi:medical-bag.svg" width="20" height="20"> Medical Transcription Tool
-> *Repositorio privado* - API para transcripción y extracción de información médica
-
-**Tecnologías:** `FastAPI` `Whisper` `JWT`  
-**Propósito:** Automatización de historias clínicas electrónicas
+<table>
+  <tr>
+    <td width="400" valign="top">
+      <div align="center">
+        <h3>🧠 AI-JobMatch</h3>
+        <p>Sistema de IA para evaluación de candidatos mediante video-presentaciones con análisis de emociones y habilidades técnicas</p>
+        <div>
+          <img src="https://img.shields.io/badge/Whisper_X-000000?style=flat-square&logo=openai&logoColor=white" alt="Whisper X" height="22">
+          <img src="https://img.shields.io/badge/NLP-4CC94C?style=flat-square&logo=natural-language-processing&logoColor=white" alt="NLP" height="22">
+          <img src="https://img.shields.io/badge/Machine_Learning-FF6B00?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML" height="22">
+        </div>
+        <br>
+        <a href="https://github.com/ElOwen7/AI-JobMatch">
+          <img src="https://img.shields.io/badge/🔍_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio">
+        </a>
+      </div>
+    </td>
+    <td width="400" valign="top">
+      <div align="center">
+        <h3>🍽️ NutriAI</h3>
+        <p>Plataforma de recomendación de platos saludables personalizados con seguimiento nutricional y planificación de dietas</p>
+        <div>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="22">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" height="22">
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="22">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="22">
+        </div>
+        <br>
+        <a href="https://github.com/HDZR24/NutriAI">
+          <img src="https://img.shields.io/badge/🔍_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio">
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="400" valign="top">
+      <div align="center">
+        <h3>🛡️ CyberAgent</h3>
+        <p>Asistente de ciberseguridad para automatización de pentesting y análisis de vulnerabilidades con reportes detallados</p>
+        <div>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="22">
+          <img src="https://img.shields.io/badge/Nmap-FF6C37?style=flat-square&logo=databricks&logoColor=white" alt="Nmap" height="22">
+          <img src="https://img.shields.io/badge/Nikto-000080?style=flat-square&logo=nikto&logoColor=white" alt="Nikto" height="22">
+          <img src="https://img.shields.io/badge/LLMs-FF9900?style=flat-square&logo=openai&logoColor=white" alt="LLMs" height="22">
+        </div>
+        <br>
+        <a href="https://github.com/HDZR24/Cyber-agent">
+          <img src="https://img.shields.io/badge/🔍_Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio">
+        </a>
+      </div>
+    </td>
+    <td width="400" valign="top">
+      <div align="center">
+        <h3>🩺 Medical Transcription Tool</h3>
+        <p>API privada para transcripción y extracción de información médica con procesamiento de lenguaje natural especializado</p>
+        <div>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="22">
+          <img src="https://img.shields.io/badge/Whisper-000000?style=flat-square&logo=openai&logoColor=white" alt="Whisper" height="22">
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="22">
+        </div>
+        <br>
+        <span style="background-color: #6c757d; color: white; padding: 8px 12px; border-radius: 6px; font-size: 14px; display: inline-block;">
+          🔒 Repositorio privado
+        </span>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
